@@ -1,3 +1,3 @@
 # esimeneTund
 Test
-Lisan rea
+Lisan rea, millele tegin väikse muudatuse
